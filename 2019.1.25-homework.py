@@ -211,10 +211,10 @@ print(help(math))         # help()函数，用来解释说明
 
 # 四、作业代码
 
-# Name=input('您的姓名是：')
-# Sex=input('您的性别是：')
-# Birth=input('您的出生日期是：')
-# print('您的姓名是：',Name)
-# print('您的性别是：',Sex)
-# print('您的出生日期是：',Birth)
+Name=input('您的姓名是：')
+Sex=input('您的性别是：')
+Birth=input('您的出生日期是：')
+print('您的姓名是：',Name)
+print('您的性别是：',Sex)
+print('您的出生日期是：',Birth)
 
